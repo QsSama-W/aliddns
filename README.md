@@ -4,6 +4,7 @@
 ## 🌟 核心功能
 - 支持阿里云 AccessKey 配置，自动加载账号下所有域名
 - 兼容 IPV4/IPV6 解析，可视化设置主/子域名
+- 已解析记录可视化操作(启用，暂停，删除)
 
 ## 📝 使用说明
 1. 从阿里云控制台创建“仅域名解析权限”的子用户，获取 AccessKey ID/Secret
@@ -27,4 +28,4 @@ A：检查以下两点：
 
 ## 效果展示
 
-<img src="https://github.com/QsSama-W/aliddns/blob/main/20251010-205426.png" style="zoom:50%;" />
+<img src="https://github.com/QsSama-W/aliddns/blob/main/20251015-193408.png" style="zoom:50%;" />
