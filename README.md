@@ -26,6 +26,33 @@ A：检查以下两点：
 2. AccessKey ID/Secret 是否填写正确（注意没有多余空格）；
 3. 子用户是否已授权“AliyunDNSFullAccess”权限。
 
+## 🛠️ 打包说明
+**打包系统版本**
+
+``Windows11_24H2(26100.6725)``
+
+**Python版本**
+
+``Python 3.13.5``
+
+**打包工具版本**
+
+``pyinstaller==5.13.2``
+
+**依赖库**
+
+``
+PyQt5==5.15.9
+requests==2.31.0
+aliyun-python-sdk-core==2.15.0
+aliyun-python-sdk-alidns==2.0.1
+``
+
+**安装依赖**
+
+``pip install -r requirements.txt``
+
+
 ## 效果展示
 
 <img src="https://github.com/QsSama-W/aliddns/blob/main/20251015-193408.png" style="zoom:50%;" />
