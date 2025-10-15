@@ -1,0 +1,8 @@
+pyinstaller==5.13.2
+PyQt5==5.15.9
+requests==2.31.0
+aliyun-python-sdk-core==2.15.0
+aliyun-python-sdk-alidns==2.0.1
+
+
+
